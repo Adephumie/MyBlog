@@ -1,0 +1,68 @@
+body {
+  background-color: white;
+  margin: 0;
+  padding: 0;
+}
+
+.blog-contents {
+  border: 2px;
+  background-color: white;
+  font-family: sans-serif;
+  padding-top: 75px;
+  padding-bottom: 50px;
+}
+
+h1 {
+  font-weight: normal;
+  text-align: center;
+}
+
+img {
+  width: 100%;
+}
+
+.introduction {
+  margin: 50px;
+  letter-spacing: 1px;
+  padding-left: 100px;
+  padding-right: 100px;
+  line-height: 2;
+}
+
+.blog-image {
+  padding-left: 300px;
+  padding-right: 300px;
+}
+
+.blog-image p {
+  text-align: center;
+  font-size: x-small;
+}
+
+.content-section {
+  margin: 50px;
+  letter-spacing: 1px;
+  padding-left: 100px;
+  padding-right: 100px;
+  line-height: 2;
+}
+
+table {
+  width: 100%;
+  margin: 50px;
+  padding-left: 200px;
+  padding-right: 200px;
+  letter-spacing: 1px;
+}
+
+.table-heading {
+  text-align: center;
+}
+
+.conclusion {
+  margin: 50px;
+  letter-spacing: 1px;
+  padding-left: 100px;
+  padding-right: 100px;
+  line-height: 2;
+}

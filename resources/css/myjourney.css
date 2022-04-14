@@ -1,0 +1,31 @@
+
+.main {
+  background-color: rgb(72, 20, 69);
+  padding: 20px;
+  
+  margin: 100px; 
+  font-size: 18px;
+}
+
+.heading{
+  margin-top: 10px;
+  text-align: center;
+  color: beige;
+}
+
+img {
+  width: auto;
+  height: 600px;
+  margin: auto;
+  display: block;
+  float: right;
+}
+
+.image {
+  padding-top: 0;
+}
+
+.content {
+  padding: 0;
+
+}

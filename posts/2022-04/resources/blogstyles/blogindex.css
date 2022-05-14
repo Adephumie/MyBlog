@@ -3,7 +3,6 @@
 }
 
 body {
-  
   color: black;
   font-size: 18px;
   line-height: 1.4em;
@@ -27,11 +26,11 @@ body {
 }
 
 .content {
+  margin: 70px;
+  margin-top: 0;
   padding: 0;
-  width: 80%;
-  margin: 30px;
-  width: 80%;
-  position: absolute;
+  
+  
 }
 
 .post {

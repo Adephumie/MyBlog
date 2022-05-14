@@ -1,0 +1,52 @@
+* {
+  margin: 0;
+}
+
+body {
+  
+  color: black;
+  font-size: 18px;
+  line-height: 1.4em;
+}
+
+.heading {
+  padding: 30px 0;
+  background-image: url(../../resources/images/background1.jpg);
+  color: white;
+  text-align: center;
+  line-height: 1.8em;
+}
+
+.heading a{
+  color: blanchedalmond;
+}
+
+.subheading {
+  padding: 20px 0;
+  text-align: center;
+}
+
+.content {
+  padding: 0;
+  width: 80%;
+  margin: 30px;
+  width: 80%;
+  position: absolute;
+}
+
+.post {
+  padding: 30px;
+  padding-left: 50px;
+  padding-right: 50px;
+  border: 1px solid gray;
+}
+
+a {
+  color: orangered;
+  text-decoration: none;
+}
+
+a:hover {
+  color: blue;
+  text-decoration: none;
+}
